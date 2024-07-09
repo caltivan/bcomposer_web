@@ -9,7 +9,7 @@
 .u-section-1 .u-image-1 {
   width: 88px;
   height: 88px;
-  margin: 50px 525px 0 auto;
+  margin: 50px auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -50,10 +50,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-right: 452px;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 1.125rem;
   }
@@ -67,7 +63,6 @@
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
     margin-left: 281px;
-    margin-right: 252px;
   }
 
   .u-section-1 .u-text-1 {
