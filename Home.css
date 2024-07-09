@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 978px;
+  min-height: 979px;
 }
 
 .u-section-1 .u-image-1 {
@@ -52,32 +52,21 @@
   background-image: none;
   text-transform: uppercase;
   box-shadow: 5px 5px 8px 0 rgba(0,0,0,0.4);
-  margin: 0 auto 0 33px;
+  margin: 0 auto;
   padding: 14px 40px 15px 38px;
-}
-
-.u-section-1 .u-btn-3 {
-  border-style: none;
-  font-weight: 700;
-  letter-spacing: 1px;
-  align-self: center;
-  font-size: 1.125rem;
-  background-image: none;
-  text-transform: uppercase;
-  box-shadow: 5px 5px 8px 0 rgba(0,0,0,0.4);
-  margin: -57px auto 0 299px;
-  padding: 14px 43px 15px 42px;
 }
 
 .u-section-1 .u-image-2 {
   height: 493px;
   width: 916px;
-  margin: 33px auto 0;
+  margin: 32px auto 1px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 979px;
+  .u-section-1 .u-image-1 {
+    width: 59px;
+    height: 59px;
+    margin-left: 426px;
   }
 
   .u-section-1 .u-image-2 {
@@ -123,10 +112,6 @@
     margin-left: 4px;
   }
 
-  .u-section-1 .u-btn-3 {
-    margin-left: 278px;
-  }
-
   .u-section-1 .u-image-2 {
     height: 291px;
     margin-right: initial;
@@ -141,7 +126,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 40px;
+    margin-left: 281px;
   }
 
   .u-section-1 .u-text-2 {
@@ -158,13 +143,6 @@
   .u-section-1 .u-btn-2 {
     margin-left: auto;
     padding-right: 60px;
-    padding-left: 60px;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-top: 20px;
-    margin-left: auto;
-    padding-right: 61px;
     padding-left: 60px;
   }
 
@@ -188,7 +166,7 @@
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 465px;
+  min-height: 588px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -267,7 +245,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 383px;
+    min-height: 485px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -1003,7 +981,7 @@
 }
 
 .u-section-6 .u-layout-cell-1 {
-  min-height: 244px;
+  min-height: 295px;
 }
 
 .u-section-6 .u-container-layout-1 {
@@ -1129,7 +1107,7 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
-    min-height: 201px;
+    min-height: 243px;
   }
 
   .u-section-6 .u-layout-cell-2 {
@@ -1288,7 +1266,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   width: 100%;
-  padding: 12px 30px 13px;
+  padding: 12px 0 13px;
 }
 
 .u-section-7 .u-text-3 {
