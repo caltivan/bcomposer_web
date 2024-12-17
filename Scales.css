@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 160px;
+  min-height: 158px;
 }
 
 .u-section-1 .u-text-1 {
@@ -12,13 +12,7 @@
   line-height: 1.2;
   font-family: Oswald, sans-serif;
   text-transform: none;
-  margin: 17px auto 28px;
-}
-
-@media (max-width: 1399px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 158px;
-  }
+  margin: 17px 0 28px;
 }
 
 @media (max-width: 1199px) {
