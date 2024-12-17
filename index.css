@@ -93,6 +93,8 @@
 }
 
 .u-section-2 .u-text-1 {
+  font-weight: 700;
+  text-shadow: -2px 2px 8px rgba(128,128,128,1);
   margin: 391px 474px 0 439px;
 }
 
@@ -112,7 +114,6 @@
     margin-top: 404px;
     margin-left: auto;
     margin-right: auto;
-    font-weight: 400;
   }
 
   .u-section-2 .u-image-1 {
@@ -144,16 +145,15 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-weight: 700;
     width: 441px;
     margin-top: 268px;
   }
 
   .u-section-2 .u-image-1 {
-    width: 250px;
-    height: 70px;
+    width: 150px;
+    height: 48px;
     margin-top: 25px;
-    margin-bottom: 17px;
+    margin-bottom: 39px;
   }
 }
 
