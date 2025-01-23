@@ -18,7 +18,7 @@
 .u-section-1 .u-image-1 {
   width: 107px;
   height: 70px;
-  margin: -86px auto 46px 0;
+  margin: -86px auto 16px 0;
 }
 
 @media (max-width: 1199px) {
@@ -1376,7 +1376,7 @@
 }
 
 .u-section-10 .u-sheet-1 {
-  min-height: 126px;
+  min-height: 135px;
 }
 
 .u-section-10 .u-social-icons-1 {
@@ -1384,7 +1384,7 @@
   min-height: 16px;
   width: 170px;
   min-width: 68px;
-  margin: 36px auto 30px;
+  margin: 43px auto;
 }
 
 .u-section-10 .u-icon-3 {
